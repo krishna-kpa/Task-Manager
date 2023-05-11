@@ -1,7 +1,7 @@
 # Task-Manager
  This is a task manager using node js. Which allow user to perform all CRUD operations.
  
-# User Actions
+## User Actions
  1. Can Create Task
  2. Can Delete Task
  3. Can Mark Task as Completed
@@ -13,7 +13,7 @@
 In order to run the project, setup .env and set mongoURI variable equal to DB connection string.
 In order to avoid port collisions, in the source code port value is 3000
 
-## Steps To App
+## Steps To Run The App
  1. Download and Extract the zip file
  2. Open in Vs code
  3. Run the command 'npm i'  //this will install all the dependandies
