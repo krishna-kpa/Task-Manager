@@ -10,10 +10,7 @@
 
 
 ## Project Setup
-In order to run the project, setup .env and set mongoURI variable equal to DB connection string.
-In order to avoid port collisions, in the source code port value is 3000
-
-## Steps To Run The App
+### Steps To Run The App
  1. Download and Extract the zip file
  2. Open in Vs code
  3. Run the command 'npm i'  //this will install all the dependandies
