@@ -19,3 +19,6 @@
  6. The app will be available on 'http://localhost:3000/'
 ## Sample Screen Shots
 ![image1](https://github.com/krishna-kpa/Task-Manager/blob/main/sampleSS/1.png)
+![image1](https://github.com/krishna-kpa/Task-Manager/blob/main/sampleSS/2.png)
+![image1](https://github.com/krishna-kpa/Task-Manager/blob/main/sampleSS/3.png)
+![image1](https://github.com/krishna-kpa/Task-Manager/blob/main/sampleSS/4.png)
