@@ -21,4 +21,4 @@ In order to avoid port collisions, in the source code port value is 3000
  5. Run command 'npm start'
  6. The app will be available on 'http://localhost:3000/'
 ## Sample Screen Shots
-![alt text](https://github.com/[krishna-kpa]/[Task-Manager]/sampleSS/1.png?raw=true)
+![alt text](https://github.com/[krishna-kpa]/[Task-Manager]/blob/master/sampleSS/1.png?raw=true)
